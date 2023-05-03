@@ -1,2 +1,2 @@
 # librifas
-PoS rifas
+PoS rifas, lib for rifas.
